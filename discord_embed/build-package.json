@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "echo done;"
+  },
+  "dependencies": {
+    "service-core": "^3.0.0-beta.17"
+  }
+}
